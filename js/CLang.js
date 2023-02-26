@@ -1,0 +1,20 @@
+var TEXT_LOSE         = "GAME OVER";
+var TEXT_WIN          = "CONGRATULATIONS!!!";
+var TEXT_SCORE        = "SCORE %s";
+var TEXT_MULTIPLIER_LIFE = "X%s";
+var TEXT_PLAY         = "PLAY";
+var TEXT_RESTART      = "RESTART";
+var TEXT_EXIT         = "EXIT";
+var TEXT_GAMEOVER     = "GAME OVER";
+var TEXT_COMBO        = "COMBO\n%s";
+var TEXT_HELP         = "CUT THE FRUITS WITH THE MOUSE CURSOR AND AVOID THE BOMBS!";
+var TEXT_HELP_MOBILE  = "CUT THE FRUITS WITH THE FINGER AND AVOID THE BOMBS!";
+var TEXT_CREDITS_DEVELOPED = "DEVELOPED BY";
+var TEXT_PRELOADER_CONTINUE = "START";
+
+var TEXT_SHARE_IMAGE = "200x200.jpg";
+var TEXT_SHARE_TITLE = "Congratulations!";
+var TEXT_SHARE_MSG1 = "You collected <strong>";
+var TEXT_SHARE_MSG2 = " points</strong>!<br><br>Share your score with your friends!";
+var TEXT_SHARE_SHARE1 = "My score is ";
+var TEXT_SHARE_SHARE2 = " points! Can you do better?";
